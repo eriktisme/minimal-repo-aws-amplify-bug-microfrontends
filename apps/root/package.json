@@ -1,0 +1,14 @@
+{
+  "name": "@eriktisme/root",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aws-amplify": "^4.3.26"
+  },
+  "devDependencies": {
+    "single-spa": "^5.9.3"
+  }
+}
